@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ChessGrid.qml</file>
+        <file>MyButton.qml</file>
+    </qresource>
+</RCC>
